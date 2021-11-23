@@ -4,14 +4,14 @@ export default function Header() {
   return (
     <header
       style={{
-        backgroundColor: "green",
+        backgroundColor: "purple",
         color: "white",
         fontWeight: "bold",
         height: "3rem",
         lineHeight: "3rem",
       }}
     >
-      Header v1.0.1
+      Header v1.0.2
     </header>
   );
 }
